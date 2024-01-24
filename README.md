@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/rochacode08">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rochacode08&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rochacode08&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochacode08&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
