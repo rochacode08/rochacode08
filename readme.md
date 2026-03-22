@@ -139,7 +139,7 @@ Sou um profissional dedicado aos seus projetos e ambições, sempre procurando m
 Aqui estão alguns dos projetos que desenvolvi, focando em resolver problemas reais e aplicar meus conhecimentos:
 
 - 💼 **[Meu Portfólio Pessoal]**: Site desenvolvido do zero com HTML, CSS e JavaScript puro, com foco em performance, animações e design responsivo. [Veja o projeto aqui](https://rochacode08.github.io/).
-- 🎂 **[Bolos da Cris]**: Site desenvolvido do zero, com foco em design responsivo e estruturação semântica. [Veja o repositório aqui](https://rochacode08.github.io/bolosCris/).
+- 🎂 **[Bolos da Cris]**: Site desenvolvido do zero, com foco em design responsivo e estruturação semântica. [Veja o projeto aqui](https://rochacode08.github.io/bolosCris/).
 - 🎯 **[NLW Pocket JS]**: Aplicação de gerenciamento de metas feita durante o evento NLW da Rocketseat. [Veja o repositório aqui](https://github.com/rochacode08/NLW-app-metas).
 
 <br/>
